@@ -1,5 +1,4 @@
-# NTDS - TEAM 27 - AIRBnB TOUR OF DATA SCIENCE
-
+# NTDS - TEAM 27 - Airbnb price prediction from an host point of view
 Github repository of the final project of the class EE-558, A Network Tour of Data Science. This readme contains an abstract with our problem definition, the different librairies that are used for the project. The code can be found in the jupyter notebook AIRBNB.ipynb.
 
 # ABSTRACT
