@@ -6,7 +6,6 @@ Github repository of the final project of the class EE-558, A Network Tour of Da
 
 AirBnB has become an easy way to find accommodations for more or less long stays in big cities all around the world. With the number of tourists constantly increasing, more people than ever before are using the AirBnb system. Instead of focusing on the travellers, we found interesting to guide attention towards accomodation providers.
 
-### "Would it be profitable to rent my flat when I am away from home ?"
 ### "How much money can I ask for my own flat ?" 
 
 This is the question we will try to answer while focusing on the New York City AirBnB Open Data dataset. AirBnb offers a lot of possibilities for the travellers to find the flat that suits their needs. Nevertheless, finding information about the price of your flat depending on a precise area might be more difficult. Providing information to the accomodation provider is the aim of the product we developped.
